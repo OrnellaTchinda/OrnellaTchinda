@@ -7,8 +7,6 @@
 <!--  My teaching background has helped me develop traits such as organization, creativity, communication and leadership while being a team player, just to name few. -->
 
 <h1 align="center">Projects</h1>
-
-<h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
