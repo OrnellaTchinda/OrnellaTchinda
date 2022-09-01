@@ -8,6 +8,34 @@
 
 <h1 align="center">Projects</h1>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">PricingPanelSubcription</h3>
+        <br />
+        <a target="_blank" href="https://pricingpanelsubscription.netlify.app/">
+            <img src="https://github.com/OrnellaTchinda/PricingPanelSubscription/blob/92396ed5d1f6e312bc05a877e11b752d235c2a2a/Pricing-Panel-gif-maker.gif" width="100%" alt="3-column-Panel"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/OrnellaTchinda/PricingPanelSubscription.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://pricingpanelsubscription.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS</strong> - 3 column pricing panel for educational website subscription</p>
+    </td>
+ 
+  </tr>
+</table>
+
+
+
 <h1 align="center">Technologies</h1>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
