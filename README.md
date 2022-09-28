@@ -28,7 +28,25 @@
       </p>
         <p><strong>HTML, CSS</strong> - 3 column pricing panel for educational website subscription</p>
     </td>
- 
+     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ToDoListApp</h3>
+        <br />
+      <a target="_blank" href="#" >
+            <img src="https://github.com/OrnellaTchinda/Get-It-Done-App/blob/391014b9639e6d93f63eae8eb82cc4803471e195/Web%20capture%20-todolistApp.jpeg" width="400" height="300" align="center" alt="ToDoList"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/OrnellaTchinda/Get-It-Done-App.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript, Express.JS, MongoDB, Node.JS</strong> - The Last To Do List you'll Need</p>
+    </td>
   </tr>
 </table>
 
