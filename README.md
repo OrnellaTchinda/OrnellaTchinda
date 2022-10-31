@@ -1,5 +1,5 @@
 
-<img src="https://github.com/OrnellaTchinda/OrnellaTchinda/blob/main/full-stack%20software%20engineer.png" alt="banner that says Ornella Tchinda">
+<img src="https://github.com/OrnellaTchinda/OrnellaTchinda/blob/b239377163832207419165ee713719bd1bfe4619/full-stack%20software%20engineer%20(1).png" alt="banner that says Ornella Tchinda">
 
 
 <h1 align="center">Hi, I'm Ornella Tchinda</h1>
