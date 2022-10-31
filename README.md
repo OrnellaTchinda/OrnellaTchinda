@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi, I'm Ornella Tchinda</h1>
-<h3 align="center"> I am a motivated and passionate full-stack software engineer with a background in psychology and education. Learning has always been my passion. Experience with HTML5, CSS3, Javascript, Node.js, React, MongoDB, etc. Let's connect! </h3>
+<h3 align="center"> I am a motivated and passionate software engineer with a background in psychology and education. Learning has always been my passion. Experience with HTML5, CSS3, Javascript, Node.js, React, MongoDB, etc. Let's connect! </h3>
 <!--  My teaching background has helped me develop traits such as organization, creativity, communication and leadership while being a team player, just to name few. -->
 
 <h1 align="center">Projects</h1>
