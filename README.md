@@ -14,7 +14,7 @@
             <h3 align="center">Plant Journal</h3>
               <br />
               <a target="_blank" href="https://plant-journal.netlify.app/">
-                <img src="https://github.com/OrnellaTchinda/Plant-Journal/blob/6af9fb54cb0d969b61d123170a58484a98e0f6b5/plant-journal-webcapture.jpeg" width="100%" height="310px" alt="plant journal webcapture"/> </a>
+                <img src="https://github.com/OrnellaTchinda/Plant-Journal/blob/6af9fb54cb0d969b61d123170a58484a98e0f6b5/plant-journal-webcapture.jpeg" width="100%"" alt="plant journal webcapture"/> </a>
               <br />
               <p align="center">
                 <a href="https://github.com/OrnellaTchinda/Plant-Journal" target="_blank">
@@ -31,7 +31,7 @@
             <h3 align="center">Picture of the day</h3>
               <br />
               <a target="_blank" href="https://nasa-find-picture-of-the-day.netlify.app/">
-                <img src="https://github.com/OrnellaTchinda/Nasa-API/blob/09fc45f5534a1e1ebfb26b2cb35478527f952b78/Web%20capture_find-picture-of-the-day.jpeg" width="100%" height="310px" alt="Nasaapp webb capturee"/> </a>
+                <img src="https://github.com/OrnellaTchinda/Nasa-API/blob/09fc45f5534a1e1ebfb26b2cb35478527f952b78/Web%20capture_find-picture-of-the-day.jpeg" width="100%" alt="Nasaapp webb capturee"/> </a>
               <br />
               <p align="center">
                 <a href="https://github.com/OrnellaTchinda/Nasa-API" target="_blank">
