@@ -48,22 +48,22 @@
   
 <tr>
         <td width="50%" valign="top">
-      <h3 align="center">PricingPanelSubcription</h3>
+      <h3 align="center">Funtivities</h3>
         <br />
-        <a target="_blank" href="https://pricingpanelsubscription.netlify.app/">
-            <img src="https://github.com/OrnellaTchinda/PricingPanelSubscription/blob/92396ed5d1f6e312bc05a877e11b752d235c2a2a/Pricing-Panel-gif-maker.gif" width="100%" alt="3-column-Panel"/>
+        <a target="_blank" href="https://funtivities.cyclic.app/">
+            <img src="https://raw.githubusercontent.com/OrnellaTchinda/funtivities/a6961b9006afaebb63c48fbb6cec159325ab3b8a/Funtivities-webCapture.jpeg" width="100%" alt="3-column-Panel"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/OrnellaTchinda/PricingPanelSubscription.git" target="_blank">
+  <a href="https://github.com/OrnellaTchinda/funtivities.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://pricingpanelsubscription.netlify.app/" target="_blank">
+  <a href="https://funtivities.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS</strong> - 3 column pricing panel for educational website subscription</p>
+        <p><strong>EJS, CSS</strong>, JS</strong>, Node.JS</strong>, Express.JS</strong>, MongoDB</strong> -  full-stack web application to Browse, Add and Save activities </p>
     </td>
      </td>
     <td width="50%" valign="top">
